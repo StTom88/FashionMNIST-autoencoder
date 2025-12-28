@@ -1,0 +1,11 @@
+# datasets
+data/
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+
+# macOS
+.DS_Store
